@@ -1,0 +1,1002 @@
+{
+  "1": {
+    "listing_id": 1,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "silver",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "2": {
+    "listing_id": 2,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "USA"
+  },
+  "3": {
+    "listing_id": 3,
+    "price_aed": 119750,
+    "monthly_payment_aed": 1876,
+    "mileage_km": 68000,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "4": {
+    "listing_id": 4,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 56000,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "5": {
+    "listing_id": 5,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 48000,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "6": {
+    "listing_id": 6,
+    "price_aed": 30500,
+    "monthly_payment_aed": null,
+    "mileage_km": 120000,
+    "color": null,
+    "body_type": "hatchback",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "7": {
+    "listing_id": 7,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sports",
+    "has_warranty": false,
+    "spec": null
+  },
+  "8": {
+    "listing_id": 8,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "9": {
+    "listing_id": 9,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "10": {
+    "listing_id": 10,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 42000,
+    "color": null,
+    "body_type": "convertible",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "11": {
+    "listing_id": 11,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "12": {
+    "listing_id": 12,
+    "price_aed": 35000,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "13": {
+    "listing_id": 13,
+    "price_aed": 54500,
+    "monthly_payment_aed": null,
+    "mileage_km": 111000,
+    "color": null,
+    "body_type": "sports",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "14": {
+    "listing_id": 14,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "15": {
+    "listing_id": 15,
+    "price_aed": 1349999,
+    "monthly_payment_aed": 25683,
+    "mileage_km": 18845,
+    "color": "Black",
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "Other"
+  },
+  "16": {
+    "listing_id": 16,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "red",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "17": {
+    "listing_id": 17,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "convertible",
+    "has_warranty": false,
+    "spec": "European"
+  },
+  "18": {
+    "listing_id": 18,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "19": {
+    "listing_id": 19,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 93000,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Korea"
+  },
+  "20": {
+    "listing_id": 20,
+    "price_aed": 21500,
+    "monthly_payment_aed": null,
+    "mileage_km": 164000,
+    "color": "Silver",
+    "body_type": "convertible",
+    "has_warranty": false,
+    "spec": "American"
+  },
+  "21": {
+    "listing_id": 21,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 142774,
+    "color": "black",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "22": {
+    "listing_id": 22,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": null,
+    "has_warranty": true,
+    "spec": null
+  },
+  "23": {
+    "listing_id": 23,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "white",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "24": {
+    "listing_id": 24,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "25": {
+    "listing_id": 25,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "26": {
+    "listing_id": 26,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Korean"
+  },
+  "27": {
+    "listing_id": 27,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 75500,
+    "color": "silver",
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "28": {
+    "listing_id": 28,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 0,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "29": {
+    "listing_id": 29,
+    "price_aed": null,
+    "monthly_payment_aed": 1099,
+    "mileage_km": null,
+    "color": null,
+    "body_type": null,
+    "has_warranty": true,
+    "spec": null
+  },
+  "30": {
+    "listing_id": 30,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": null,
+    "has_warranty": false,
+    "spec": null
+  },
+  "31": {
+    "listing_id": 31,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "32": {
+    "listing_id": 32,
+    "price_aed": null,
+    "monthly_payment_aed": 1400,
+    "mileage_km": 100271,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "33": {
+    "listing_id": 33,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": null
+  },
+  "34": {
+    "listing_id": 34,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 4000,
+    "color": "silver",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "35": {
+    "listing_id": 35,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "hatchback",
+    "has_warranty": false,
+    "spec": null
+  },
+  "36": {
+    "listing_id": 36,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "37": {
+    "listing_id": 37,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": null,
+    "has_warranty": false,
+    "spec": null
+  },
+  "38": {
+    "listing_id": 38,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "yellow",
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": null
+  },
+  "39": {
+    "listing_id": 39,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "blue",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "40": {
+    "listing_id": 40,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "41": {
+    "listing_id": 41,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "42": {
+    "listing_id": 42,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 23900,
+    "color": "Black",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "43": {
+    "listing_id": 43,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "G.C.C"
+  },
+  "44": {
+    "listing_id": 44,
+    "price_aed": 159750,
+    "monthly_payment_aed": 2503,
+    "mileage_km": 102000,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "45": {
+    "listing_id": 45,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": true,
+    "spec": null
+  },
+  "46": {
+    "listing_id": 46,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 12000,
+    "color": null,
+    "body_type": "sports",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "47": {
+    "listing_id": 47,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 122090,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "48": {
+    "listing_id": 48,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "white",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "49": {
+    "listing_id": 49,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 500,
+    "color": null,
+    "body_type": "sports",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "50": {
+    "listing_id": 50,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "Black",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": null
+  },
+  "51": {
+    "listing_id": 51,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "52": {
+    "listing_id": 52,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "53": {
+    "listing_id": 53,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "54": {
+    "listing_id": 54,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 0,
+    "color": "Silver",
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": null
+  },
+  "55": {
+    "listing_id": 55,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "56": {
+    "listing_id": 56,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 27000,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Korean"
+  },
+  "57": {
+    "listing_id": 57,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "Yellow",
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": null
+  },
+  "58": {
+    "listing_id": 58,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 58465,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": null
+  },
+  "59": {
+    "listing_id": 59,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "60": {
+    "listing_id": 60,
+    "price_aed": 32000,
+    "monthly_payment_aed": null,
+    "mileage_km": 36000,
+    "color": null,
+    "body_type": "hatchback",
+    "has_warranty": false,
+    "spec": "US"
+  },
+  "61": {
+    "listing_id": 61,
+    "price_aed": 36999,
+    "monthly_payment_aed": null,
+    "mileage_km": 169859,
+    "color": "BLUE",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "USA"
+  },
+  "62": {
+    "listing_id": 62,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Japan"
+  },
+  "63": {
+    "listing_id": 63,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "64": {
+    "listing_id": 64,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "WHITE",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "65": {
+    "listing_id": 65,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 71000,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": true,
+    "spec": null
+  },
+  "66": {
+    "listing_id": 66,
+    "price_aed": 79999,
+    "monthly_payment_aed": 1300,
+    "mileage_km": 0,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "67": {
+    "listing_id": 67,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "68": {
+    "listing_id": 68,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 34927,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "69": {
+    "listing_id": 69,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "white",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "70": {
+    "listing_id": 70,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "Japan"
+  },
+  "71": {
+    "listing_id": 71,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 71000,
+    "color": "Grey",
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "72": {
+    "listing_id": 72,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 13000,
+    "color": "White",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "73": {
+    "listing_id": 73,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 45000,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "74": {
+    "listing_id": 74,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "convertible",
+    "has_warranty": true,
+    "spec": null
+  },
+  "75": {
+    "listing_id": 75,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "76": {
+    "listing_id": 76,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "77": {
+    "listing_id": 77,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 98000,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "USA"
+  },
+  "78": {
+    "listing_id": 78,
+    "price_aed": null,
+    "monthly_payment_aed": 10000,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": null
+  },
+  "79": {
+    "listing_id": 79,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 73000,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "80": {
+    "listing_id": 80,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 11000,
+    "color": "Gray",
+    "body_type": "hatchback",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "81": {
+    "listing_id": 81,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "black",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "82": {
+    "listing_id": 82,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "black",
+    "body_type": "convertible",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "83": {
+    "listing_id": 83,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "black",
+    "body_type": "sedan",
+    "has_warranty": false,
+    "spec": "Japanese"
+  },
+  "84": {
+    "listing_id": 84,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": true,
+    "spec": "GCC"
+  },
+  "85": {
+    "listing_id": 85,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": true,
+    "spec": null
+  },
+  "86": {
+    "listing_id": 86,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "sports",
+    "has_warranty": false,
+    "spec": null
+  },
+  "87": {
+    "listing_id": 87,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": null,
+    "has_warranty": false,
+    "spec": null
+  },
+  "88": {
+    "listing_id": 88,
+    "price_aed": 115000,
+    "monthly_payment_aed": 1850,
+    "mileage_km": 15858,
+    "color": null,
+    "body_type": "sedan",
+    "has_warranty": true,
+    "spec": "Korean"
+  },
+  "89": {
+    "listing_id": 89,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "convertible",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "90": {
+    "listing_id": 90,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "white",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "91": {
+    "listing_id": 91,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "92": {
+    "listing_id": 92,
+    "price_aed": null,
+    "monthly_payment_aed": 5805,
+    "mileage_km": 23900,
+    "color": "Diamond White",
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "Japanese"
+  },
+  "93": {
+    "listing_id": 93,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 271000,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": null
+  },
+  "94": {
+    "listing_id": 94,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": "gold",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "95": {
+    "listing_id": 95,
+    "price_aed": 95000,
+    "monthly_payment_aed": 1500,
+    "mileage_km": 970,
+    "color": null,
+    "body_type": "suv",
+    "has_warranty": true,
+    "spec": "Korean"
+  },
+  "96": {
+    "listing_id": 96,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": 71000,
+    "color": "Grey",
+    "body_type": "suv",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "97": {
+    "listing_id": 97,
+    "price_aed": 299000,
+    "monthly_payment_aed": null,
+    "mileage_km": 65699,
+    "color": null,
+    "body_type": "convertible",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "98": {
+    "listing_id": 98,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "van",
+    "has_warranty": false,
+    "spec": null
+  },
+  "99": {
+    "listing_id": 99,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "hatchback",
+    "has_warranty": false,
+    "spec": "GCC"
+  },
+  "100": {
+    "listing_id": 100,
+    "price_aed": null,
+    "monthly_payment_aed": null,
+    "mileage_km": null,
+    "color": null,
+    "body_type": "coupe",
+    "has_warranty": true,
+    "spec": "GCC"
+  }
+}

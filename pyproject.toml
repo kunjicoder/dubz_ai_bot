@@ -1,0 +1,18 @@
+[project]
+name = "dubz-ai-bot"
+version = "1.0.0"
+description = "Car marketplace AI assistant (FastAPI + Streamlit + Gemini via LiteLLM)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.139.0",
+    "httpx>=0.28.1",
+    "litellm>=1.92.0",
+    "openpyxl>=3.1.5",
+    "orjson>=3.11.9",
+    "pandas>=3.0.3",
+    "pydantic>=2.13.4",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.59.2",
+    "uvicorn[standard]>=0.51.0",
+]
