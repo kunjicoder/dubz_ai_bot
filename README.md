@@ -45,7 +45,7 @@ service independently deployable.
 
 ```bash
 # 1. Clone
-git clone <repo-url> Dubz_AI_Bot
+git clone [<repo-url> Dubz_AI_Bot](https://github.com/kunjicoder/dubz_ai_bot)
 cd Dubz_AI_Bot
 
 # 2. Configure your key
