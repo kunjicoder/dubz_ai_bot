@@ -179,8 +179,10 @@ data/
 
 ## Screenshots
 
+<img width="962" height="571" alt="image" src="https://github.com/user-attachments/assets/8bd03f7e-b925-43f3-abab-49f7d93df4bd" />
+<img width="1071" height="568" alt="image" src="https://github.com/user-attachments/assets/fa511753-6adf-4854-9f08-460e647eefee" />
+<img width="437" height="222" alt="image" src="https://github.com/user-attachments/assets/79e4e2b7-74bf-4437-aeb7-bcd247902545" />
+<img width="977" height="430" alt="image" src="https://github.com/user-attachments/assets/fcf88721-74e6-4d4b-8638-77125994c1b9" />
 
-<img width="857" height="593" alt="image" src="https://github.com/user-attachments/assets/4f430eea-72b0-45ad-9bf6-0d02d898ef38" />
 
 
-<img width="1081" height="596" alt="image" src="https://github.com/user-attachments/assets/9cf25ec5-d72f-44ea-bc4b-029b56fa61be" />
