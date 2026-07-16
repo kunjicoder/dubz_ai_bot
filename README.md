@@ -176,3 +176,11 @@ data/
 | GET  | `/cars/{listing_id}` | full record, or 404 |
 | GET  | `/users/{user_id}/profile` | stored profile, or 404 |
 | GET  | `/health` | `{status: "ok"}` |
+
+## Screenshots
+
+
+<img width="857" height="593" alt="image" src="https://github.com/user-attachments/assets/4f430eea-72b0-45ad-9bf6-0d02d898ef38" />
+
+
+<img width="1081" height="596" alt="image" src="https://github.com/user-attachments/assets/9cf25ec5-d72f-44ea-bc4b-029b56fa61be" />
